@@ -8,3 +8,7 @@ p {
 	color: aquamarine;
 	font-size: 32px;
 }
+/*modificacion 1*/
+ul li {
+	list-style: none;
+}
